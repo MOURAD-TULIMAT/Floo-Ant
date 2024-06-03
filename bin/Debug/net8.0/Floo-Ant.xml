@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Floo-Ant</name>
+    </assembly>
+    <members>
+        <member name="T:FlooAnt.Controllers.Admin.ReferencesController">
+            <summary>
+            this is a fluent references controller
+            </summary>
+        </member>
+        <member name="M:FlooAnt.Controllers.Admin.ReferencesController.Get(System.String)">
+            <summary>
+            get references by type
+            </summary>
+        </member>
+        <member name="M:FlooAnt.Controllers.Admin.ReferencesController.Add(System.String,FlooAnt.Dtos.References.AddReferenceDto)">
+            <summary>
+            get references by type and Id 
+            </summary>
+        </member>
+    </members>
+</doc>
